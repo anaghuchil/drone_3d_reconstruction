@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/
+*.db
+*.mp4
+*.ply
+*.obj
+*.glb
+*.fbx
+*.las
+*.tif
+*.png
+.DS_Store
